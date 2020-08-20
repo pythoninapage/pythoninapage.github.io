@@ -6,6 +6,14 @@
 
 ---
 
+## What, Python ?
+
+---
+
+## Why, Python ?
+
+---
+
 ## Data Types
 
 ---
@@ -45,6 +53,6 @@
 - zip()
 - copy (module)
 - weakref (module)
-
+- Walrus Operator (& BDFL lecture)
 ---
 

